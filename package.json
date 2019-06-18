@@ -1,0 +1,22 @@
+{
+  "name": "telegrampaymentbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alihajqani/TelegramPaymentBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alihajqani/TelegramPaymentBot/issues"
+  },
+  "homepage": "https://github.com/alihajqani/TelegramPaymentBot#readme",
+  "dependencies": {
+    "telegraf": "^3.30.1"
+  }
+}
